@@ -177,3 +177,123 @@ See `references/lua-best-practices.md` for:
 - Using import() for modules
 - Table-driven configuration
 - Common patterns and anti-patterns
+
+## Advanced Build Features
+
+See `references/advanced-build.md` for:
+- Build cache acceleration
+- Distributed compilation
+- Remote compilation
+- Unity build
+- LTO optimization
+- Sanitizers (ASan, USan, TSan, MSan)
+- Performance tuning
+
+## Graphics & Framework Development
+
+See `references/graphics-frameworks.md` for:
+- OpenGL development
+- Vulkan programs
+- SDL2 applications
+- ImGui integration
+- Raylib games
+- Metal (macOS/iOS)
+- Qt applications
+- Terminal UI (NCurses)
+
+## Multi-Language Support
+
+See `references/multi-language.md` for:
+- CUDA development
+- Rust integration
+- Swift support
+- Go projects
+- D language
+- Fortran
+- Nim
+- Zig
+- Vala
+- Pascal
+- Lex/Yacc
+- Protocol Buffers
+- OpenMP
+
+## IDE Integration
+
+See `references/ide-integration.md` for:
+- VSCode integration
+- IntelliJ IDEA / CLion
+- Vim/Neovim
+- Emacs
+- Visual Studio
+- Zed Editor
+- Language Server Protocol (LSP)
+
+## API Reference
+
+See `references/api-reference.md` for:
+- Global interfaces
+- Target APIs
+- Option APIs
+- Builtin rules
+- Builtin policies
+- Builtin variables
+- Specification
+
+## Builtin Modules
+
+See `references/builtin-modules.md` for:
+- io - File I/O operations
+- os - Operating system utilities
+- path - Path manipulation
+- string - String operations
+- table - Table operations
+- print/printf/cprint - Output functions
+- import - Module importing
+- coroutine - Coroutine support
+- hash - Hashing utilities
+- raise - Exception handling
+- try-catch-finally - Error handling
+
+## Builtin Rules
+
+See `references/builtin-rules.md` for:
+- Build mode rules (debug, release, profile, coverage)
+- Qt rules (widgetapp, quickapp, console)
+- Xcode rules (bundle, framework, application)
+- Android rules (native_app)
+- WDK rules
+- Unity build
+
+## Builtin Policies
+
+See `references/builtin-policies.md` for:
+- Build policies (parallel, ccache, LTO, sanitizers)
+- Check policies (auto_ignore_flags, auto_map_flags)
+- Package policies (precompiled, fetch_only)
+- Network policies
+
+## Builtin Variables
+
+See `references/builtin-variables.md` for:
+- Directory variables (builddir, projectdir, scriptdir)
+- Environment variables ($(env VAR), $(shell cmd))
+- Custom variables
+- Registry access on Windows
+
+## Basic Commands
+
+See `references/basic-commands.md` for:
+- Build commands (build, rebuild, clean)
+- Run commands
+- Test commands
+- Install/uninstall
+- Package commands
+- Project creation
+
+## Complete TOC Mapping
+
+See `references/toc-mapping.md` for:
+- Complete mapping of all xmake documentation sections
+- References to specific guides for each topic
+- Untitled section derivations from URLs
