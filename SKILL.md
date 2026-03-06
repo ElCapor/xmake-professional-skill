@@ -254,6 +254,17 @@ See `references/ide-integration.md` for:
 - Zed Editor
 - Language Server Protocol (LSP)
 
+## Documentation Generation
+
+See `references/documentation.md` for:
+- Doxygen integration (xmake doxygen)
+- Pandoc integration for Markdown to HTML/PDF
+- Sphinx documentation support
+- Custom documentation rules
+- Documentation installation
+- CI/CD documentation workflows
+- Task-based documentation generation
+
 ## API Reference
 
 See `references/api-reference.md` for:
