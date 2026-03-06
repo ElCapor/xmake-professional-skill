@@ -139,6 +139,21 @@ See `references/external-builds.md` for:
 - Using xrepo.cmake in CMake projects
 - Mixed xmake/cmake builds
 
+## Porting Build Systems
+
+See `references/porting-build-systems.md` for:
+- Quick TryBuild for existing projects
+- Porting CMake to xmake (targets, dependencies, options, install)
+- Porting Make to xmake (targets, phony, pattern rules)
+- Porting Autotools to xmake (configure options, AC_SEARCH_LIBS)
+- Porting Premake to xmake (filters, configurations)
+- Porting build tasks (custom targets, scripts)
+- Advanced porting (FetchContent, find_package, generator expressions)
+- Cross-compilation porting
+- Testing porting (CTest, Google Test)
+- Mixed build systems and xrepo.cmake usage
+- Complete porting checklist
+
 ## Advanced Features
 
 See `references/advanced-features.md` for:
