@@ -149,6 +149,16 @@ See `references/advanced-features.md` for:
 - Lua scripting in xmake
 - Toolchain customization
 
+## Plugins and Tasks
+
+See `references/plugins-tasks.md` for:
+- Defining custom tasks
+- Task menu configuration
+- Builtin plugins (project generation, compile_commands)
+- Creating custom plugins
+- Task dependencies and macros
+- Event-based tasks
+
 ## CI/CD Integration
 
 See `references/ci-cd.md` for:
